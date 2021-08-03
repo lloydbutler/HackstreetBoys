@@ -1,0 +1,6 @@
+let profiles = [
+    { "id": "1", "name": "Rhys", "type": "Mentor", "location": "Norfolk", "department": "TDP", "bio": "Worked for Nationwide for almost 5 years", "interests": "Python", "skills": "Pizza", "profileimg": "user1.png", "video1": "", "video2": "", "video3": "", "likes": "10"},
+    { "id": "2", "name": "Rob Lee", "type": "Mentor", "location": "Somerset", "department": "Chief Architect", "bio": "Worked in technology for over 30 years", "interests": "Python", "skills": "Data Integrity", "profileimg": "user2.png", "video1": "", "video2": "", "video3": "", "likes": "50"},
+    { "id": "3", "name": "Simone Steel", "type": "Mentor", "location": "Swindon", "department": "Chief Data Officer", "bio": "Data and information technology leader", "interests": "Python", "skills": "Data Services", "profileimg": "user3.png", "video1": "", "video2": "", "video3": "", "likes": "50"},
+    { "id": "4", "name": "Matthew Rowe", "type": "Mentor", "location": "London", "department": "Chief security and data officer", "bio": "Massive list of accomplishements", "interests": "Python", "skills": "Industry wide security", "profileimg": "user4.png", "video1": "", "video2": "", "video3": "", "likes": "50"}
+    ];
